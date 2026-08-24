@@ -11,7 +11,7 @@ This repository provides a comprehensive overview of Identity and Access Managem
 Identity and Access Management (IAM) is a framework of policies, technologies, and practices designed to manage digital identities and control access to resources. IAM helps ensure the right individuals have the right access to resources at the right time. It is crucial for securing sensitive data and resources in any organization, especially those operating in a cloud environment.
 
 # Objectives
-
+ 
 •	To understand the purpose and benefits of IAM
 •	To learn about the core components of IAM
 •	To gain hands-on experience setting up and managing IAM policies
